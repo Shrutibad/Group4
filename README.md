@@ -1,5 +1,5 @@
 # Group4
-Gropu members and contribution :
+Group members and contribution :
 
 ==> Badadhe Shruti - cs14btech11005
   Working on methods to convert an image to metric.
